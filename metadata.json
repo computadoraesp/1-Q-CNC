@@ -1,0 +1,7 @@
+{
+  "name": "1 Q CNC",
+  "description": "Industrial CNC Controller & HMI for 1 Q hardware (QRB2210 LinuxCNC + STM32U585 Motion Timing)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1 Q CNC</string>
+    <string name="tab_control">制御</string>
+    <string name="tab_gcode">Gコード</string>
+    <string name="tab_diagnostics">診断</string>
+    <string name="tab_tools">ツール/WCS</string>
+    <string name="tab_settings">設定</string>
+</resources>

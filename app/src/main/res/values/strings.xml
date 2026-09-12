@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1 Q CNC</string>
+    <string name="tab_control">Control</string>
+    <string name="tab_gcode">G-Code</string>
+    <string name="tab_diagnostics">Diagnostics</string>
+    <string name="tab_tools">Tools/WCS</string>
+    <string name="tab_settings">Settings</string>
+</resources>
