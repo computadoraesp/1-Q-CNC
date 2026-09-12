@@ -1,4 +1,4 @@
-# UNO Q DROID CNC
+# 1 Q DROID CNC
 
 **Industrial CNC Controller & HMI for Arduino UNO Q (QRB2210 LinuxCNC + STM32U585 Real-Time Motion Control)**
 
@@ -6,7 +6,7 @@
 
 ## 0. Project Metadata & Governance
 
-- **Application Name**: UNO Q CNC (`com.aistudio.unoqcnc.rzxwtk`)
+- **Application Name**: 1 Q CNC (`com.aistudio.unoqcnc.rzxwtk`)
 - **Target Audience**: CNC machine operators, machinists, embedded engineers, PCB fabricators, and makers using Arduino UNO Q, GRBL, grblHAL, or LinuxCNC.
 - **Platform Architecture**: Clean MVVM with Unidirectional Data Flow (UDF) in 100% Kotlin and Jetpack Compose (Material 3).
 - **Supported SDK**:
